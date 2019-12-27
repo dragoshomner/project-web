@@ -1,0 +1,19 @@
+.card-link:hover{
+    cursor: pointer !important;
+}
+
+.poster-text-description{
+    font-size: 27px;
+}
+
+.btn-link{
+    background-color: #333 !important;
+    color: #fff !important;
+    text-decoration: #fff !important;
+}
+
+.btn-link:hover {background-color: #111 !important;}
+
+.input-group-text{
+    width: 75px;
+}
